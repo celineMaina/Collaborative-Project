@@ -1,0 +1,1 @@
+This website will serve as an online boutique for FlairGlam Ltd. They will use it to post new products, process orders and track sales. It will be used by their customers to browse available products, place orders and make payments.
